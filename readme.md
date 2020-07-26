@@ -6,5 +6,5 @@ Things used:-
 * Numpy
 * Python
 
-Snap from te project:-<br>
+Snap from the project:-<br>
 ![Output](output.png)
